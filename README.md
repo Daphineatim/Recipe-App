@@ -154,8 +154,8 @@ You can deploy this project using:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[Users_Posting_feature]**
-- [ ] **[Post_Liking_Feature]**
+- [ ] **[Showing Recipes to the public]**
+- [ ] **[Authentication and Authorization of Users]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
