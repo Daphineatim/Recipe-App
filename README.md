@@ -100,7 +100,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-- git clone https://github.com/johnkioko/rails-blog-app.git
+- git clone https://github.com/Daphineatim/Recipe-App.git
 
 
 ### Install
