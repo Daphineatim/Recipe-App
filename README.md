@@ -23,7 +23,7 @@ After you're finished please remove all the comments and instructions!
 -->
 
 
-  <h3><b>Blog App</b></h3>
+  <h3><b>RECIPE App</b></h3>
 
 </div>
 
@@ -57,7 +57,7 @@ After you're finished please remove all the comments and instructions!
 
 > Describe your project in 1 or 2 sentences.
 
-**[Blog-App]** is a fully functional website that will show the list of posts and empower readers to interact with them by adding comments and liking posts.
+**[RECIPE-App]** This Recipe app keeps track of all your recipes, ingredients, and inventory. It will allow you to save ingredients, keep track of what you have, create recipes, and generate a shopping list based on what you have and what you are missing from a recipe.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
