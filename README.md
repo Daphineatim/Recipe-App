@@ -74,9 +74,9 @@ Postgresql
 
 > Describe between 1-3 key features of the application.
 
-- **[Make post]**
-- **[Comment on post]**
-- **[like a post]**
+- **[Create a new User]**
+- **[Add a food Item]**
+- **[Create a recipe]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
