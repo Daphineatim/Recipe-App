@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  get 'public_recipes/index'
 
   resources :foods, only: [:index, :new, :create, :show, :destroy]
   root "foods#index"
