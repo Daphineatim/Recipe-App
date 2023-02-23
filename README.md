@@ -142,11 +142,11 @@ You can deploy this project using:
   - Twitter: [@John Mutisya](https://twitter.com/John_Web_Dev)
   - LinkedIn: [John Mutisya](https://linkedin.com/in/johnmutisya)
   
-    👤 **Daphine**
+👤 **Daphine Atim**
     
-  - GitHub: [@Daphine](add your profile link here)
-  - Twitter: [@Daphine](add your profile link here)
-  - LinkedIn: [Daphine](add your profile link here)
+  - GitHub: @Daphineatim
+  - Twitter: @dhaphyn
+  - LinkedIn: DaphineAtim
 
 <!-- FUTURE FEATURES -->
 
