@@ -14,7 +14,7 @@
  *= require_self
  */
 
-.fa-hand-o-right {
+ .fa-hand-o-right {
   animation: moveHand 2s infinite;
 }
 
