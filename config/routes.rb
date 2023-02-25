@@ -2,7 +2,7 @@
 Rails.application.routes.draw do
   get 'shopping_lists/index'
   resources :recipe_foods
-  root 'foods#Index'
+  root 'foods#index'
 
   devise_for :users
  
@@ -10,7 +10,8 @@ Rails.application.routes.draw do
 
   # Defines the root path route ("/")
   # root "articles#index"
-  resources :users 
+  resources :users
+  
   # resources :foods, only: [:new, :edit, :update, :show, :destory]
   
   resources :foods, only: [:index, :new, :create, :show, :destroy]
